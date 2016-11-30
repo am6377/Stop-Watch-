@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	margin-top: 150px;
+	background-color: #FBF8F5;
+}
+
+#title {
+	font-family: "Lato";
+	font-size: 9vw;
+	font-weight: 300;
+
+}
+
+#timer {
+	font-family: "Lato";
+	font-size: 7vw;
+	font-weight: 300;
+}
+
+button {
+	/*width: 100px;*/
+	width: 11vw;
+	height: 35px;
+}
+
+button:hover {
+	cursor: pointer;
+}
